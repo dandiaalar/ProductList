@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Products List</string>
+    <string name="products_title">Productos</string>
+    <string name="image_product_desc">Imagen del producto</string>
+    <string name="close_button_tag">Cerrar</string>
+    <string name="product_name">Nombre: %s</string>
+</resources>
